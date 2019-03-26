@@ -1,9 +1,10 @@
 @extends('layouts.default')
 @section('content')
+    @include('includes.header')
     <br>
     <br>
     <br>
-    <h1>Welcome to About Page</h1>
+    <h1>Welcome to Homepage</h1>
 
 
 @stop
